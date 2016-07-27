@@ -1,4 +1,4 @@
-package com.ducitymp.dhd.Ultis;
+package eu.ducitymp.dhd.Ultis;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
@@ -16,7 +16,7 @@ import org.bukkit.Material;
 import org.bukkit.entity.Player;
 import org.bukkit.util.Vector;
 
-import com.ducitymp.dhd.Ultis.ReflectionUtils.PackageType;
+import eu.ducitymp.dhd.Ultis.ReflectionUtils.PackageType;
 
 /**
  * <b>ParticleEffect Library</b>

@@ -1,12 +1,12 @@
-package com.ducitymp.dhd.Listeners;
+package eu.ducitymp.dhd.Listeners;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.inventory.InventoryClickEvent;
 
-import com.ducitymp.dhd.DHD;
-import com.ducitymp.dhd.Ultis.MessageUtils;
+import eu.ducitymp.dhd.DHD;
+import eu.ducitymp.dhd.Ultis.MessageUtils;
 
 public class InventroyInteract implements Listener{
 	

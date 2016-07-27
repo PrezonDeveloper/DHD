@@ -1,4 +1,4 @@
-package com.ducitymp.dhd.Menus;
+package eu.ducitymp.dhd.Menus;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,8 +10,8 @@ import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
-import com.ducitymp.dhd.DHD;
-import com.ducitymp.dhd.Ultis.ItemUtil;
+import eu.ducitymp.dhd.DHD;
+import eu.ducitymp.dhd.Ultis.ItemUtil;
 
 public class SettingsMenu {
 	

@@ -1,4 +1,4 @@
-package com.ducitymp.dhd.Listeners;
+package eu.ducitymp.dhd.Listeners;
 
 import org.bukkit.Material;
 import org.bukkit.entity.Player;
@@ -7,7 +7,7 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.block.Action;
 import org.bukkit.event.player.PlayerInteractEvent;
 
-import com.ducitymp.dhd.Menus.SettingsMenu;
+import eu.ducitymp.dhd.Menus.SettingsMenu;
 
 public class ItemUse implements Listener{
 	

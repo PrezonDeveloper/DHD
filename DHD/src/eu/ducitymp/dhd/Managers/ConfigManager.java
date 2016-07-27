@@ -1,4 +1,4 @@
-package com.ducitymp.dhd.Managers;
+package eu.ducitymp.dhd.Managers;
 
 import java.io.File;
 import java.io.IOException;

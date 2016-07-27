@@ -1,11 +1,11 @@
-package com.ducitymp.dhd.Commads;
+package eu.ducitymp.dhd.Commads;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
-import com.ducitymp.dhd.Ultis.MessageUtils;
+import eu.ducitymp.dhd.Ultis.MessageUtils;
 
 public class CMD_spawn implements CommandExecutor{
 

@@ -1,4 +1,4 @@
-package com.ducitymp.dhd.Ultis;
+package eu.ducitymp.dhd.Ultis;
 
 import java.util.List;
 

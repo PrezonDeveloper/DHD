@@ -3,7 +3,7 @@
  * ZIE INFO.TXT
  */
 
-package com.ducitymp.dhd;
+package eu.ducitymp.dhd;
 
 import java.util.HashMap;
 import java.util.logging.Level;
@@ -14,14 +14,14 @@ import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.scheduler.BukkitRunnable;
 
-import com.ducitymp.dhd.Commads.CMD_spawn;
-import com.ducitymp.dhd.Listeners.InventroyInteract;
-import com.ducitymp.dhd.Listeners.ItemUse;
-import com.ducitymp.dhd.Listeners.PlayerJoin;
-import com.ducitymp.dhd.Listeners.PlayerMove;
-import com.ducitymp.dhd.Managers.ConfigManager;
-import com.ducitymp.dhd.MySQL.SQLSettings;
-import com.ducitymp.dhd.Ultis.Scoreboard;
+import eu.ducitymp.dhd.Commads.CMD_spawn;
+import eu.ducitymp.dhd.Listeners.InventroyInteract;
+import eu.ducitymp.dhd.Listeners.ItemUse;
+import eu.ducitymp.dhd.Listeners.PlayerJoin;
+import eu.ducitymp.dhd.Listeners.PlayerMove;
+import eu.ducitymp.dhd.Managers.ConfigManager;
+import eu.ducitymp.dhd.MySQL.SQLSettings;
+import eu.ducitymp.dhd.Ultis.Scoreboard;
 
 public class DHD extends JavaPlugin{
 	

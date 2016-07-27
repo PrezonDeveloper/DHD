@@ -1,4 +1,4 @@
-package com.ducitymp.dhd.MySQL;
+package eu.ducitymp.dhd.MySQL;
 
 import java.sql.ResultSet;
 

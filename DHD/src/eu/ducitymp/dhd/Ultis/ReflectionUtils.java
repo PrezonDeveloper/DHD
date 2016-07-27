@@ -1,4 +1,4 @@
-package com.ducitymp.dhd.Ultis;
+package eu.ducitymp.dhd.Ultis;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;

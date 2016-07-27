@@ -1,4 +1,4 @@
-package com.ducitymp.dhd.Listeners;
+package eu.ducitymp.dhd.Listeners;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
@@ -11,8 +11,8 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.scoreboard.Scoreboard;
 import org.bukkit.scoreboard.Team;
 
-import com.ducitymp.dhd.DHD;
-import com.ducitymp.dhd.Ultis.ItemUtil;
+import eu.ducitymp.dhd.DHD;
+import eu.ducitymp.dhd.Ultis.ItemUtil;
 
 public class PlayerJoin implements Listener{
 	
@@ -29,7 +29,7 @@ public class PlayerJoin implements Listener{
 		
 		p.getInventory().clear();
 		p.getInventory().setItem(4, new ItemStack(Material.PAPER, 1));
-		com.ducitymp.dhd.Ultis.Scoreboard.buildScoreboard(p);
+		eu.ducitymp.dhd.Ultis.Scoreboard.buildScoreboard(p);
 		
 		if(p.isOp() || p.hasPermission("dhd.staff")){
 			e.setJoinMessage("§c[Staff] " + p.getName() + " §cis gejoined!");
