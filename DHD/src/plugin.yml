@@ -1,0 +1,7 @@
+name: DHDServerDevTrial
+version: 1.0.0
+author: ducitymp
+main: com.ducitymp.dhd.DHD
+commands:
+  spawn:
+  setspawn:

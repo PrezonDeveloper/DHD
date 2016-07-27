@@ -1,0 +1,30 @@
+
+  Met deze source code's wil ik graag mij aanmelden als developer op de DHD server!
+  In deze plugin zal ik dingen laten zien wat ik allemaal kan.
+  Natuurlijk an ik niet alles tonen want dan bent u een tijdje bezig.
+  Toch bedankt da u de tijd neemt om dit te bekijken
+ 
+  Mvg,
+  Dylan Verbreyt
+  
+ Wat u kan verwachten:
+ 
+ MySQL (Class: MySQL, SQLSettings)
+ packets 
+ Particles (Class: PlayerMove, ParticleEffect, ReflectionUtils)
+ Bungeecord Compass
+ Menu's (Class: SettingsMenu)
+ ArrayList's
+ Parkour Functie
+ YAML Files (Class: ConfigManager)
+ Vershillende Events (Verspreid over het package com.ducitymp.dhd.Listeners)
+ Scoreboards (Class: Scoreboard)
+ Holograms (zonder API)
+ ChatManagment
+ Teleporting (Class: CMD_spawn)
+ EntityDrops
+ Updating Signs
+ Custom Crafting Recipe's 
+ Removing Recipe's
+ Custom nametag and tablist name (Class: PlayerJoin)
+ PotionEffects
